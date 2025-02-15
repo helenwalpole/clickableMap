@@ -12,5 +12,6 @@ First, create a new survey in google forms with at least the following compulsor
 - DateFrom [date, compulsory]
 - DateTo [date, optional]
 
-Set the form sharing options to 'anyone with the link'. 
-Set the form to save to a google sheet. Set the sharing options for the sheet to 'anyone with the link'. 
+Set the form sharing options to 'anyone with the link' and publish it. 
+
+Set this google form to save to a google sheet. Set the sharing options for the sheet to 'anyone with the link'. 
